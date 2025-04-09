@@ -42,6 +42,8 @@ Key Goals:
 ## 🎥 Demo
 
 **Live Application:** [Waste Classifier Web App](Adding soon)  
+![Screenshot 2025-03-24 202852](https://github.com/user-attachments/assets/88dd7b05-1774-4e0f-af9c-dd465129838b)
+![Screenshot 2025-03-24 202929](https://github.com/user-attachments/assets/493bb74e-8172-4d88-b2ec-0123d2596cb5)
 
 ---
 
