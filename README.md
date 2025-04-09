@@ -57,6 +57,7 @@ Follow these steps to set up the project on your local system:
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/yashdubeyy/Green_Skill_Project.git
+
 cd Green_Skill_Project
 
 2️⃣ Set Up a Virtual Environment (Optional)
@@ -112,6 +113,7 @@ Click the "Fork" button on GitHub.
 Clone Your Fork
 
 git clone https://github.com/your-username/Green_Skill_Project.git
+
 cd Green_Skill_Project
 Create a New Branch
 
